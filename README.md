@@ -23,21 +23,37 @@ It also includes clean bar charts and KPI indicators.
 
 **Tools I used:**  
 `COUNTIFS`, `XLOOKUP`, `FILTER`, `SEARCH`, PivotTables, and conditional formatting.
-
+**How to Use:**
+1. Download `Salary_dashboard.xlsx`
+2. Open in Excel (desktop recommended)
+3. Explore dashboards & use filters
+4. Optional: Replace data for custom analysis
 ---
 
-### 2️⃣ My Data Analytics Project
-Another Excel project where I worked with a dataset to clean, sort, and analyze the data.  
-I created summary tables, used PivotTables, and added custom calculations to show useful insights.
+### 2️⃣ Data Career Analytics report 📊
 
-**Tools I used:**  
-PivotTables, slicers, `IF`, `SUMIFS`, `AVERAGEIFS`, and conditional formatting.
 
----
+Explore data job market trends! Analyze roles, skills, salaries & demand.
 
-## 🎯 Why I Did This:
-I created these projects to improve my data analytics and Excel skills — and to show what I can do when working with real-world data.
+**What's Inside:**
+* Job counts by role
+* Median salaries (US vs Non-US)
+* In-demand skills & impact
+* Skill-salary correlations
+* Interactive dashboards (pivot tables & slicers)
 
+**Excel Sheets:**
+* `Skill_Analysis`: Job counts per role
+* `Salary_Analytics`: Salaries by role & location
+* `Skill_Job_Analytics`: Skill likelihood across roles
+* `Salary VS Skill`: Skills per job vs salary
+* `Skill_Salary_Analytics`: Top-paying skills
+
+**How to Use:**
+1. Download `Report_project.xlsx`
+2. Open in Excel (desktop recommended)
+3. Explore dashboards & use filters
+4. Optional: Replace data for custom analysis
 ---
 
 🟢 Thanks for checking out my work!
